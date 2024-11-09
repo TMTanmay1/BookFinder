@@ -55,6 +55,9 @@ This project uses the following main libraries:
 - **React Router** - For managing application navigation.
 - **react-icons** - For icons used in the project.
 - **CSS Modules** - For styling the components in a modular way.
+- 
+### Key Points:
+- **Additional Details** section includes a link to the `Project-BookFinder.docx` file includes more detail information.
 
 To install these dependencies manually:
 ```bash
