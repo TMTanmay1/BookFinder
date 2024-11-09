@@ -58,6 +58,8 @@ This project uses the following main libraries:
 
 To install these dependencies manually:
 ```bash
+
+For more detail open the Project-BookFinder.docx file
 npm install react react-router-dom react-icons
 
 ## API Used
